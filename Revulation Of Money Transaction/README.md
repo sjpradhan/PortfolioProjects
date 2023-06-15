@@ -23,7 +23,7 @@ https://github.com/sjpradhan/PortfolioProjects/blob/main/Revulation%20Of%20Money
 ## Analysis
 
 My goal is to demonstrate how transactions mode are changing efiicently from barter system to look how we relied on online transaction, how it has make our life easy in terms of  money transaction. I used some of Microsoft Excel inbuilt functions to draw meaning full insights.
-In the end I complied it onto a single-report Dashboard (shown below).
+ In the end I complied it onto a single-report Dashboard (shown below).
 
 
 
