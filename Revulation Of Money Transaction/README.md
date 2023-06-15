@@ -5,5 +5,8 @@ With this project I have analyse qbout money transaction over the period. If we 
 
 Tool Used: Excel | Skills: Converting PDF to XLSX, Filtering, Sorting, Removing blanks
 
+![image](https://github.com/sjpradhan/PortfolioProjects/assets/104523422/09d15d1c-a501-4100-b7a9-8990e5cd1748)
 
+## The Dataset
 
+This "Real time" dataset contents an individual's 2022-2023 financial year account statement to analyse the transaction of the data and information of types transaction methodology, also about debit and credit transaction.
