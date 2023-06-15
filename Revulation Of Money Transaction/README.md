@@ -5,5 +5,5 @@ With this project I have analyse qbout money transaction over the period. If we 
 
 Tool Used: Excel | Skills: Converting PDF to XLSX, Filtering, Sorting, Removing blanks
 
-(https://github.com/sjpradhan/PortfolioProjects/blob/main/Revulation%20Of%20Money%20Transaction/Online%20Payment.png)
+https://github.com/sjpradhan/PortfolioProjects/blob/main/Revulation%20Of%20Money%20Transaction/Online%20Payment.png
 
