@@ -16,3 +16,7 @@ Excel: filtering, sorting, cleaning, conditional formatting, XLOOKUP, VLOOKUP, i
 SQL: MySQL, DDL, DML, TCL, aggregate functions, JOINS
 
 Python: cleaning, data analysis, visualizations, functions, loops, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
+
+## Socials
+
+https://www.linkedin.com/in/sjpradha
