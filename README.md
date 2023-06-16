@@ -22,4 +22,5 @@ Python: cleaning, data analysis, visualizations, functions, loops, NumPy, Pandas
 ## Socials
 
 [Linkedin](https://www.linkedin.com/in/sjpradha)
+
 [Medium](medium.com/@pradhansatyajit026)
