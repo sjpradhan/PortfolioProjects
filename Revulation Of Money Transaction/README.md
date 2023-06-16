@@ -26,7 +26,7 @@ This "Real time" dataset contents of an individual's 2022-2023 financial year ac
 My goal is to demonstrate how transactions mode are changing efiicently from barter system to look how we relied on online transaction, how it has make our life easy in terms of  money transaction. I used some of Microsoft Excel inbuilt functions to draw meaning full insights.
  In the end I complied it onto a single-report using Power BI Dashboard (shown below).
 
-![image](https://github.com/sjpradhan/PortfolioProjects/assets/104523422/917e8ddb-e063-4a28-99f4-9f648201d11e)
+![image](https://github.com/sjpradhan/Portfolio-Projects/assets/104523422/1f786786-5676-42bc-bd65-2fc73b1f80a8)
 
 ### Objective
 
