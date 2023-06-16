@@ -23,4 +23,4 @@ Python: cleaning, data analysis, visualizations, functions, loops, NumPy, Pandas
 
 [Linkedin](https://www.linkedin.com/in/sjpradhan)
 
-[Medium](medium.com/@sjpradhan)
+[Medium](https://medium.com/@sjpradhan)
