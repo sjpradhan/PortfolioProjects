@@ -11,8 +11,6 @@ Tool Used: Excel | Skills: Converting PDF to XLSX, Filtering, Sorting, Removing 
 
 This "Real time" dataset contents of an individual's 2022-2023 financial year account statement to analyse the transaction of the data and information of types of transaction methodology, also about debit and credit transaction.
 
-![image](https://github.com/sjpradhan/Portfolio-Projects/assets/104523422/aed69632-3af1-4dbf-b04c-98291c22eeb6)
-
 ### Features
 1. Transaction Date
 2. Transaction Mode
@@ -26,6 +24,7 @@ This "Real time" dataset contents of an individual's 2022-2023 financial year ac
 My goal is to demonstrate how transactions mode are changing efiicently from barter system to look how we relied on online transaction, how it has make our life easy in terms of  money transaction. I used some of Microsoft Excel inbuilt functions to draw meaning full insights.
  In the end I complied it onto a single-report using Power BI Dashboard (shown below).
 
+![image](https://github.com/sjpradhan/Portfolio-Projects/assets/104523422/5fa08a01-9340-45de-93d2-659181060f54)
 
 
 ### Objective
